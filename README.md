@@ -19,7 +19,7 @@ Live preview · Syntax highlighting · Task manager · Vim mode · Multi-file pr
 
 ## What is Slate?
 
-Slate is a VS Code-inspired code editor that runs entirely in the browser — no install, no backend, no setup. Open a file or folder, start editing, and see your HTML rendered live side-by-side. It stores your projects, tasks, and settings locally so everything persists between sessions.
+Slate is a VS Code-inspired code editor that runs entirely in the browser no install, no backend, no setup. Open a file or folder, start editing, and see your HTML rendered live side-by-side. It stores your projects, tasks, and settings locally so everything persists between sessions.
 
 ---
 
@@ -36,8 +36,8 @@ Slate is a VS Code-inspired code editor that runs entirely in the browser — no
 
 **Live Preview**
 - Side-by-side HTML preview with auto-refresh on save
-- Inline CSS and JS asset resolution — linked stylesheets and scripts render correctly
-- Resizable split pane, URL bar for navigating between files, open-in-new-tab
+- Inline CSS and JS asset resolution, linked stylesheets and scripts render correctly
+- Resizable split pane, URL bar for navigating between files, open in new tab
 
 **Project Management**
 - Open individual files or entire folders
@@ -50,7 +50,7 @@ Slate is a VS Code-inspired code editor that runs entirely in the browser — no
 - Tasks persist per user across sessions
 
 **Accounts**
-- Terminal-style sign-up and login
+- Terminal style sign-up and login
 - All data (projects, tasks, settings, marks) scoped per user via localStorage
 
 ---
@@ -62,7 +62,7 @@ Slate is a VS Code-inspired code editor that runs entirely in the browser — no
 | Home | [martikdev.github.io/slate/home.html](https://martikdev.github.io/slate/home.html) |
 | Editor | [martikdev.github.io/slate/index.html](https://martikdev.github.io/slate/index.html) |
 
-No installation needed — open the link and start coding.
+No installation needed. Just open the link and start coding.
 
 ## Keyboard shortcuts
 
