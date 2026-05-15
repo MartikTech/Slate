@@ -120,6 +120,6 @@ No installation needed — open the link and start coding.
 
 <div align="center">
 
-Built by [martikdev](https://github.com/martikdev)
+Built by [martiktech](https://github.com/martiktech)
 
 </div>
