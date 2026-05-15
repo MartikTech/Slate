@@ -103,7 +103,6 @@ No installation needed. Just open the link and start coding.
 - [ ] File type icons (Python, HTML, JS, etc.)
 - [ ] Profile page
 - [ ] Terminal panel
-- [ ] Mobile layout
 
 ---
 
